@@ -1,0 +1,206 @@
+========================================
+(pyomo) PS C:\OS (D) drive\NUS_Masters\Sem_2\EE5903\CA2\Paper_2> & C:/Users/peete/miniconda3/envs/pyomo/python.exe "c:/OS (D) drive/NUS_Masters/Sem_2/EE5903/CA2/Paper_2/rhc.py"    
+
+M = 1
+N = 4
+========================================
+ Octeract Engine 1.10.1
+ Copyright (c) Octeract Ltd, 2021       
+========================================
+
+Preprocessor >>> Found solution during preprocessing.
+
+Objective value at global solution:  2.155e+01
+Solution file written to: C:\Users\peete\AppData\Local\Temp\\tmpp26biygx.pyomo.octsol
+optimisation time = 3.0199999999999996
+Wind used =  0.0698010336445766  
+Grid used =  3.93784827976368e-09
+current sim time =  8.02
+
+M = 1
+N = 3
+========================================
+ Octeract Engine 1.10.1
+ Copyright (c) Octeract Ltd, 2021       
+========================================
+
+Preprocessor >>> Found solution during preprocessing.
+
+Objective value at global solution:  9.706e+00
+Solution file written to: C:\Users\peete\AppData\Local\Temp\\tmpsuy8osb7.pyomo.octsol
+optimisation time = 2.6400000000000006
+Wind used =  0.282183726314893   
+Grid used =  0.000107509258412625
+current sim time =  10.66        
+
+M = 2
+N = 3
+========================================
+ Octeract Engine 1.10.1
+ Copyright (c) Octeract Ltd, 2021       
+========================================
+
+Preprocessor >>> Found solution during preprocessing.
+
+Objective value at global solution:  3.450e+01
+Solution file written to: C:\Users\peete\AppData\Local\Temp\\tmpwlpwhywe.pyomo.octsol
+optimisation time = 3.4700000000000006
+Wind used =  0.37150772925922
+Grid used =  4.0559844971529e-09
+current sim time =  15.0
+Wind used =  0.199999996278969
+Grid used =  4.05598445917959e-09
+current sim time =  15.0
+
+M = 3
+N = 4
+========================================
+ Octeract Engine 1.10.1
+ Copyright (c) Octeract Ltd, 2021
+========================================
+
+Preprocessor >>> Found solution during preprocessing.
+
+Objective value at global solution:  1.378e+02
+Solution file written to: C:\Users\peete\AppData\Local\Temp\\tmp4nedl488.pyomo.octsol     
+optimisation time = 2.870000000000001
+Wind used =  0.206186902155954
+Grid used =  0.493813096824051
+current sim time =  20.0
+Wind used =  0.182915484659692
+Grid used =  0.378487559652733
+current sim time =  20.0
+Wind used =  0.0293738942500863
+Grid used =  0.0320318614915812
+current sim time =  20.0
+
+M = 3
+N = 3
+========================================
+ Octeract Engine 1.10.1
+ Copyright (c) Octeract Ltd, 2021
+========================================
+
+Preprocessor >>> Found solution during preprocessing.
+
+Objective value at global solution:  8.630e+01
+Solution file written to: C:\Users\peete\AppData\Local\Temp\\tmpvxs0dokn.pyomo.octsol     
+optimisation time = 2.7399999999999984
+Wind used =  0.0737727540230299
+Grid used =  0.102627240282962
+current sim time =  25.0
+Wind used =  0.158659472016583
+Grid used =  0.401337482458073
+current sim time =  25.0
+Wind used =  0.158659106092918
+Grid used =  0.401335144933731
+current sim time =  25.0
+
+M = 2
+N = 2
+========================================
+ Octeract Engine 1.10.1
+ Copyright (c) Octeract Ltd, 2021
+========================================
+
+Preprocessor >>> Found solution during preprocessing.
+
+Objective value at global solution:  9.744e+01
+Solution file written to: C:\Users\peete\AppData\Local\Temp\\tmpedzy7kmf.pyomo.octsol     
+optimisation time = 2.530000000000001
+Wind used =  0.108947926190991
+Grid used =  0.169652074611416
+current sim time =  30.0
+Wind used =  0.190574976303105
+Grid used =  0.509425023652147
+current sim time =  30.0
+
+M = 2
+N = 4
+========================================
+ Octeract Engine 1.10.1
+ Copyright (c) Octeract Ltd, 2021
+========================================
+
+Preprocessor >>> Found solution during preprocessing.
+
+Objective value at global solution:  2.330e+03
+Solution file written to: C:\Users\peete\AppData\Local\Temp\\tmpta7us9uk.pyomo.octsol     
+optimisation time = 2.520000000000003
+Wind used =  0.0700802284186126
+Grid used =  0.20851976465847
+current sim time =  35.0
+Wind used =  0.0899505729897188
+Grid used =  0.610049426990791
+current sim time =  35.0
+
+M = 1
+N = 3
+========================================
+ Octeract Engine 1.10.1
+ Copyright (c) Octeract Ltd, 2021
+========================================
+
+Preprocessor >>> Found solution during preprocessing.
+
+Objective value at global solution:  1.284e+03
+Solution file written to: C:\Users\peete\AppData\Local\Temp\\tmpkj6_b29i.pyomo.octsol     
+optimisation time = 2.4399999999999977
+Wind used =  0.272993721766317
+Grid used =  0.42700627820391
+current sim time =  40.0
+
+M = 2
+N = 4
+========================================
+ Octeract Engine 1.10.1
+ Copyright (c) Octeract Ltd, 2021
+========================================
+
+Preprocessor >>> Found solution during preprocessing.
+
+Objective value at global solution:  5.951e+03
+Solution file written to: C:\Users\peete\AppData\Local\Temp\\tmpjw59r7lh.pyomo.octsol     
+optimisation time = 2.75
+Wind used =  0.0872622389300675
+Grid used =  0.612737761055932
+current sim time =  45.0
+Wind used =  0.0590760838984024
+Grid used =  0.140923915938112
+current sim time =  45.0
+
+M = 1
+N = 3
+========================================
+ Octeract Engine 1.10.1
+ Copyright (c) Octeract Ltd, 2021
+========================================
+
+Preprocessor >>> Found solution during preprocessing.
+
+Objective value at global solution:  2.822e+03
+Solution file written to: C:\Users\peete\AppData\Local\Temp\\tmpr1elxeob.pyomo.octsol     
+optimisation time = 2.969999999999999
+Wind used =  0.187415748186455
+Grid used =  0.512584251785445
+current sim time =  50.0
+
+M = 1
+N = 2
+========================================
+ Octeract Engine 1.10.1
+ Copyright (c) Octeract Ltd, 2021
+========================================
+
+Preprocessor >>> Found solution during preprocessing.
+
+Objective value at global solution:  1.832e+03
+Solution file written to: C:\Users\peete\AppData\Local\Temp\\tmpqvce1i0x.pyomo.octsol     
+optimisation time = 2.3500000000000014
+Wind used =  0.199999988511168
+Grid used =  1.14558373149519e-08
+current sim time =  55.0
+Sim END time = 60.0
+tot_grid 5.000638415303422
+tot_wind 2.9993615838907597
+(pyomo) PS C:\OS (D) drive\NUS_Masters\Sem_2\EE5903\CA2\Paper_2> 

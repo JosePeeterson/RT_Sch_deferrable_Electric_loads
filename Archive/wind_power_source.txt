@@ -1,0 +1,8 @@
+BPA Balancing Authority Load & Total Wind Generation
+at 5-minute intervals, last 7 days
+Dates: 16Mar2021 - 23Mar2021 (last updated 22Mar2021 04:00:34) Pacific Time
+Based on 5-min MW readings from the BPA SCADA system for points 45583, 79687, 79682, 164377, 70681
+
+This represents loads and resources in BPA's Balancing Authority (BA) including some that are not BPA's.
+It does not include BPA loads served by transfer, scheduled out of region,
+or scheduled to customers with their own BAs such as Seattle and Tacoma
